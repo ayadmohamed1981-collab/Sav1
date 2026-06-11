@@ -1,0 +1,41 @@
+{
+  "name": "Planning Service Technique",
+  "short_name": "Service Tech",
+  "description": "Planning et gestion des missions - SINAL",
+  "start_url": "./planning_app_v2.html",
+  "display": "standalone",
+  "background_color": "#f0f4f9",
+  "theme_color": "#1a3a6b",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Planning",
+      "short_name": "Planning",
+      "description": "Voir le planning du mois",
+      "url": "./planning_app_v2.html#planning"
+    },
+    {
+      "name": "Rapports",
+      "short_name": "Rapports",
+      "description": "Rapports de mission",
+      "url": "./planning_app_v2.html#rapports"
+    }
+  ],
+  "categories": ["business", "productivity"]
+}

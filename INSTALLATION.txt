@@ -1,0 +1,47 @@
+==============================================
+  APPLICATION SERVICE TECHNIQUE - SINAL
+  Comment installer sur Android (PWA)
+==============================================
+
+ÉTAPE 1 - Héberger les fichiers
+--------------------------------
+Mettez ces 4 fichiers sur un serveur web ou utilisez
+un service gratuit comme :
+  - Google Drive (partage public)
+  - GitHub Pages (gratuit)
+  - Netlify (gratuit sur netlify.com)
+
+Fichiers à mettre ensemble :
+  ✓ planning_app_v2.html
+  ✓ manifest.json
+  ✓ sw.js
+  ✓ icon-192.png
+  ✓ icon-512.png
+
+ÉTAPE 2 - Installer sur Android
+---------------------------------
+1. Ouvrez Chrome sur votre téléphone Android
+2. Allez sur l'URL de votre fichier hébergé
+3. Une bannière apparaît en bas : "Installer l'application"
+4. Appuyez sur "📲 Installer"
+5. L'icône apparaît sur votre écran d'accueil !
+
+CODES DE CONNEXION :
+---------------------
+  Responsable  : PIN 1234
+  Assistante   : PIN 1111
+  Louness      : PIN 0000
+  Ayachi       : PIN 0000
+  Hamel        : PIN 0000
+  Ilyes        : PIN 0000
+
+==============================================
+  Option la plus simple : Netlify
+==============================================
+1. Allez sur https://netlify.com
+2. Créez un compte gratuit
+3. Glissez-déposez le dossier avec vos 5 fichiers
+4. Netlify vous donne une URL en 30 secondes
+5. Partagez l'URL avec votre équipe !
+
+==============================================
